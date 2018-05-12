@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6901
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Centlivre
 description: Augustan Reprint Society, publication number 19
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16740#The-Busie-Body
 gutenberg_issued: '2005-09-24'
 gutenberg_type: Text
 identifiers:
