@@ -1,0 +1,39 @@
+_repo: The-Busie-Body_16740
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Byrd, Jess
+    gutenberg_agent_id: '6902'
+    url: http://www.gutenberg.org/2009/agents/6902
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Centlivre, Susanna
+    aliases:
+    - Carrol, Susanna
+    - Fox, Susanna
+    - Centlivre, Susannah
+    - Freeman, Susanna
+    - Carroll, S. (Susanna)
+    - Centlivre, Susanna Carroll
+    birthdate: 1666
+    deathdate: 1723
+    gutenberg_agent_id: '6901'
+    url: http://www.gutenberg.org/2009/agents/6901
+    wikipedia: http://en.wikipedia.org/wiki/Susanna_Centlivre
+description: Augustan Reprint Society, publication number 19
+gutenberg_issued: '2005-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+title: The Busie Body
+url: http://www.gutenberg.org/ebooks/16740
